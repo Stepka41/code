@@ -1,3 +1,2 @@
-print("Hello World!")
-print("Goodbuy World!")
-x = 2 + 2
+for i in range(3):
+    print("Hello World!")
